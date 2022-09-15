@@ -1,0 +1,56 @@
+{
+    "products": [
+        {
+            "productName": "Nike",
+            "productId": 1,
+            "image": "assets/2.jpg",
+            "category": "Men",
+            "Wear": "Footwear",
+            "price":"200"
+        },
+        {
+            "productName": "Polo",
+            "productId": 2,
+            "image": "assets/shoe4.jpg",
+            "category": "Kids",
+            "Wear": "Footwear",
+            "price":"300"
+        },
+        
+        {
+            "productName": "Nike",
+            "productId": 3,
+            "image": "assets/shoe7.jpg",
+            "category": "Women",
+            "Wear": "Footwear",
+            "price":"400"
+        }
+    ],
+    "topProducts": [
+        {
+            "productName": "Nike",
+            "productId": 1,
+            "image": "assets/2.jpg",
+            "category": "Men",
+            "Wear": "Footwear",
+            "price":"200"
+        },
+        {
+            "productName": "Polo",
+            "productId": 2,
+            "image": "assets/shoe4.jpg",
+            "category": "Kids",
+            "Wear": "Footwear",
+            "price":"300"
+        },
+        
+        {
+            "productName": "Nike",
+            "productId": 3,
+            "image": "assets/shoe7.jpg",
+            "category": "Women",
+            "Wear": "Footwear",
+            "price":"400"
+        }
+    ]
+}
